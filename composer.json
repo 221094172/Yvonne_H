@@ -1,0 +1,13 @@
+{
+    "name": "yvonne-hangara/website",
+    "description": "Yvonne Hangara Personal Website",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
